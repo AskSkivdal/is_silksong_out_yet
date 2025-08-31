@@ -1,0 +1,10 @@
+[package]
+name = "is-silksong-out-yet"
+description = "A crate that checks if Hollow Knight: Silksong is released"
+version = "1.0.0"
+edition = "2024"
+license = "CC0"
+repository = "https://github.com/AskSkivdal/is_silksong_out_yet"
+
+[dependencies]
+chrono = "0.4.41"
