@@ -2,7 +2,7 @@
 Thats the question we are all having. So i made a crate to check. This crate does not require any 
 internet and is highly performant.
 
-### Useage
+### Usage
 To add the dependency run
 ```
 cargo add is-silksong-out-yet
